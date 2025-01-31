@@ -1,2 +1,2 @@
 # battleship
-ideas about how to build and scale the battleship
+Ideas about how to build and scale the game battleship
